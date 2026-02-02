@@ -13,6 +13,7 @@ Key features of the dashboard include:
 
 This project demonstrates practical skills in data transformation, Power BI data modeling, DAX measures, and interactive dashboard design for media content analytics.
 ## Dashboard Preview
-![Prime Video Dashboard](Screenshot%202026-02-02%20151951.png)
+![Prime Video Dashboard](prime-dashboard.png)
+
 
 
